@@ -1,0 +1,11 @@
+{
+  "YARN": "Direct raw material",
+  "SIZING": "Sizing",
+  "WEAVING": "Weaving",
+  "DYEING": "Processing charges",
+  "ACCESSORIES": "Accessories",
+  "ELECTRICITY": "Utility",
+  "GAS": "Utility",
+  "SERVICE": "Service",
+  "PRINTING": "Printing"
+}
